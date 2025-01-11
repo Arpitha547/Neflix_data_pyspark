@@ -12,3 +12,12 @@ This repository showcases the code in pyspark, and data processing steps used to
 
 ## Dataset 
 Link : (https://data.world/gonzandrobles/netflix-movies-and-series)
+
+## Insights
+
+With this model we can draw data-driven insights like:
+1. Highlighting yearly top-performing content (e.g., in a dashboard or a report).
+2. Identifying trends in genres or production over the years.
+3. Building recommendation systems (e.g., recommend movies by genre, cast, or director).
+4. Searching for movies with specific actors, directors, or genres.
+5. Analyzing the influence of cast and crew on ratings and viewer preferences.
