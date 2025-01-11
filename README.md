@@ -5,7 +5,7 @@ This project demonstrates a data engineering solution for analyzing and organizi
 
 1. Best in Year Movies Table: Captures the best movie its details and the best movies genres for each year.
 2. Best in Year Shows Table: Captures the best shows their details and the best shows genres for each year
-3. Movies Table: Stores metadata for movies, including ratings, votes, genre, and a map of cast and crew (e.g., actors and directors).
+3. Movies Table: Stores metadata for movies, including ratings, votes, genre, and  cast and crew (e.g., actors and directors).
 4. Shows Table: Similar to the Movies Table but tailored for TV shows, including the number of seasons.
 
 This repository showcases the code in pyspark, and data processing steps used to create these tables. The project is ideal for showcasing skills in data modeling, ETL, and analytics.
