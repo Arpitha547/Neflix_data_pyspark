@@ -9,3 +9,6 @@ This project demonstrates a data engineering solution for analyzing and organizi
 4. Shows Table: Similar to the Movies Table but tailored for TV shows, including the number of seasons.
 
 This repository showcases the code in pyspark, and data processing steps used to create these tables. The project is ideal for showcasing skills in data modeling, ETL, and analytics.
+
+## Dataset 
+Link : (https://data.world/gonzandrobles/netflix-movies-and-series)
